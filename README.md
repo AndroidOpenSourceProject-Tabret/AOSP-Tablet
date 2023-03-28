@@ -1,5 +1,6 @@
 # AOSP-Tablet
 **This project is currently pre-launch! The start date has not yet been determined.**
+
 AOSP-Tablet (not yet officially named) is an AndroidOpenSourceProject (AOSP)-based custom ROM with the following features
 
 (Goals)
